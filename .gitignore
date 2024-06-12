@@ -1,0 +1,17 @@
+# Arquivos de compilação Python
+__pycache__/
+*.pyc
+
+# Ambiente virtual Python
+venv/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Arquivos de configuração locais
+.env
+
+# Arquivos de dependências
+/.venv
+/.idea
