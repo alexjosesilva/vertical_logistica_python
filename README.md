@@ -1,7 +1,7 @@
 ﻿[![Latest Version](https://img.shields.io/github/v/release/alexjosesilva/crm_postogasolinas_Logus_mvc?include_prereleases)](https://github.com/alexjosesilva/crm_postogasolinas_Logus_mvc/releases/tag/1.0)
 [![License](https://img.shields.io/github/license/alexjosesilva/logus-microservice-gas-station)]([https://github.com/seu-usuario/seu-repositorio/blob/master/LICENSE](https://github.com/alexjosesilva/logus-microservice-gas-station/blob/master/LICENSE))
 
-# Desafio Técnico - Vertical Logística
+# Vertical Logística
 
 ## Visão Geral
 
